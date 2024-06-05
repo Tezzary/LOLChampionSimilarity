@@ -1,4 +1,3 @@
-import json
 from apimanager import safe_make_request
 from sendtoresults import write_to_json
 from dotenv import load_dotenv
