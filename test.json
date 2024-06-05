@@ -1,0 +1,3556 @@
+[
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 163,
+        "championLevel": 12,
+        "championPoints": 147629,
+        "lastPlayTime": 1717401469000,
+        "championPointsSinceLastLevel": 50029,
+        "championPointsUntilNextLevel": -39029,
+        "markRequiredForNextLevel": 2,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "milestoneGrades": [
+            "A+"
+        ],
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 84,
+        "championLevel": 10,
+        "championPoints": 100632,
+        "lastPlayTime": 1707721750000,
+        "championPointsSinceLastLevel": 25032,
+        "championPointsUntilNextLevel": -14032,
+        "markRequiredForNextLevel": 2,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 55,
+        "championLevel": 8,
+        "championPoints": 74419,
+        "lastPlayTime": 1706699600000,
+        "championPointsSinceLastLevel": 20819,
+        "championPointsUntilNextLevel": -9819,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 20,
+        "championLevel": 8,
+        "championPoints": 71868,
+        "lastPlayTime": 1708173434000,
+        "championPointsSinceLastLevel": 18268,
+        "championPointsUntilNextLevel": -7268,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 142,
+        "championLevel": 8,
+        "championPoints": 71044,
+        "lastPlayTime": 1705316638000,
+        "championPointsSinceLastLevel": 17444,
+        "championPointsUntilNextLevel": -6444,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 897,
+        "championLevel": 7,
+        "championPoints": 48172,
+        "lastPlayTime": 1717410427000,
+        "championPointsSinceLastLevel": 5572,
+        "championPointsUntilNextLevel": 5428,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 4,
+        "championSeasonMilestone": 5,
+        "milestoneGrades": [
+            "B-",
+            "A-",
+            "B+"
+        ],
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "S-": 7
+            },
+            "rewardMarks": 1,
+            "bonus": true
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 910,
+        "championLevel": 7,
+        "championPoints": 41211,
+        "lastPlayTime": 1710418992000,
+        "championPointsSinceLastLevel": 0,
+        "championPointsUntilNextLevel": 12389,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 136,
+        "championLevel": 6,
+        "championPoints": 33532,
+        "lastPlayTime": 1715512770000,
+        "championPointsSinceLastLevel": 1932,
+        "championPointsUntilNextLevel": 9068,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 238,
+        "championLevel": 5,
+        "championPoints": 29827,
+        "lastPlayTime": 1709383621000,
+        "championPointsSinceLastLevel": 8227,
+        "championPointsUntilNextLevel": 1773,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 1,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 103,
+        "championLevel": 6,
+        "championPoints": 29381,
+        "lastPlayTime": 1706443943000,
+        "championPointsSinceLastLevel": 0,
+        "championPointsUntilNextLevel": 13219,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 2,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 81,
+        "championLevel": 5,
+        "championPoints": 29146,
+        "lastPlayTime": 1714566360000,
+        "championPointsSinceLastLevel": 7546,
+        "championPointsUntilNextLevel": 2454,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 1,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 268,
+        "championLevel": 5,
+        "championPoints": 27351,
+        "lastPlayTime": 1717498326000,
+        "championPointsSinceLastLevel": 5751,
+        "championPointsUntilNextLevel": 4249,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 2,
+        "championSeasonMilestone": 0,
+        "milestoneGrades": [
+            "S"
+        ],
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 64,
+        "championLevel": 4,
+        "championPoints": 21454,
+        "lastPlayTime": 1707726714000,
+        "championPointsSinceLastLevel": 8854,
+        "championPointsUntilNextLevel": 146,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 517,
+        "championLevel": 4,
+        "championPoints": 21153,
+        "lastPlayTime": 1708318002000,
+        "championPointsSinceLastLevel": 8553,
+        "championPointsUntilNextLevel": 447,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 7,
+        "championLevel": 4,
+        "championPoints": 20516,
+        "lastPlayTime": 1698837025000,
+        "championPointsSinceLastLevel": 7916,
+        "championPointsUntilNextLevel": 1084,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 76,
+        "championLevel": 4,
+        "championPoints": 19471,
+        "lastPlayTime": 1703855784000,
+        "championPointsSinceLastLevel": 6871,
+        "championPointsUntilNextLevel": 2129,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 1,
+        "championLevel": 4,
+        "championPoints": 17945,
+        "lastPlayTime": 1707548071000,
+        "championPointsSinceLastLevel": 5345,
+        "championPointsUntilNextLevel": 3655,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 141,
+        "championLevel": 4,
+        "championPoints": 16464,
+        "lastPlayTime": 1699683017000,
+        "championPointsSinceLastLevel": 3864,
+        "championPointsUntilNextLevel": 5136,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 60,
+        "championLevel": 4,
+        "championPoints": 16099,
+        "lastPlayTime": 1673351422000,
+        "championPointsSinceLastLevel": 3499,
+        "championPointsUntilNextLevel": 5501,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 202,
+        "championLevel": 4,
+        "championPoints": 14291,
+        "lastPlayTime": 1709380729000,
+        "championPointsSinceLastLevel": 1691,
+        "championPointsUntilNextLevel": 7309,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 18,
+        "championLevel": 4,
+        "championPoints": 13477,
+        "lastPlayTime": 1716468308000,
+        "championPointsSinceLastLevel": 877,
+        "championPointsUntilNextLevel": 8123,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "milestoneGrades": [
+            "C-",
+            "A",
+            "D+",
+            "C-",
+            "A"
+        ],
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 74,
+        "championLevel": 4,
+        "championPoints": 13415,
+        "lastPlayTime": 1656313738000,
+        "championPointsSinceLastLevel": 815,
+        "championPointsUntilNextLevel": 8185,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 92,
+        "championLevel": 4,
+        "championPoints": 13360,
+        "lastPlayTime": 1707806478000,
+        "championPointsSinceLastLevel": 760,
+        "championPointsUntilNextLevel": 8240,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 154,
+        "championLevel": 4,
+        "championPoints": 13267,
+        "lastPlayTime": 1706854431000,
+        "championPointsSinceLastLevel": 667,
+        "championPointsUntilNextLevel": 8333,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 33,
+        "championLevel": 4,
+        "championPoints": 13145,
+        "lastPlayTime": 1707732111000,
+        "championPointsSinceLastLevel": 545,
+        "championPointsUntilNextLevel": 8455,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 236,
+        "championLevel": 4,
+        "championPoints": 12764,
+        "lastPlayTime": 1701257231000,
+        "championPointsSinceLastLevel": 164,
+        "championPointsUntilNextLevel": 8836,
+        "markRequiredForNextLevel": 1,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 777,
+        "championLevel": 3,
+        "championPoints": 11922,
+        "lastPlayTime": 1701987132000,
+        "championPointsSinceLastLevel": 5922,
+        "championPointsUntilNextLevel": 678,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 67,
+        "championLevel": 3,
+        "championPoints": 11728,
+        "lastPlayTime": 1703065419000,
+        "championPointsSinceLastLevel": 5728,
+        "championPointsUntilNextLevel": 872,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 24,
+        "championLevel": 3,
+        "championPoints": 11382,
+        "lastPlayTime": 1702116859000,
+        "championPointsSinceLastLevel": 5382,
+        "championPointsUntilNextLevel": 1218,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 157,
+        "championLevel": 3,
+        "championPoints": 11094,
+        "lastPlayTime": 1673438007000,
+        "championPointsSinceLastLevel": 5094,
+        "championPointsUntilNextLevel": 1506,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 223,
+        "championLevel": 3,
+        "championPoints": 11037,
+        "lastPlayTime": 1703854080000,
+        "championPointsSinceLastLevel": 5037,
+        "championPointsUntilNextLevel": 1563,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 523,
+        "championLevel": 3,
+        "championPoints": 10904,
+        "lastPlayTime": 1639370505000,
+        "championPointsSinceLastLevel": 4904,
+        "championPointsUntilNextLevel": 1696,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 150,
+        "championLevel": 3,
+        "championPoints": 10419,
+        "lastPlayTime": 1715843878000,
+        "championPointsSinceLastLevel": 4419,
+        "championPointsUntilNextLevel": 2181,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "milestoneGrades": [
+            "B+"
+        ],
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 51,
+        "championLevel": 3,
+        "championPoints": 10190,
+        "lastPlayTime": 1707823157000,
+        "championPointsSinceLastLevel": 4190,
+        "championPointsUntilNextLevel": 2410,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 39,
+        "championLevel": 3,
+        "championPoints": 9679,
+        "lastPlayTime": 1702900488000,
+        "championPointsSinceLastLevel": 3679,
+        "championPointsUntilNextLevel": 2921,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 38,
+        "championLevel": 3,
+        "championPoints": 9527,
+        "lastPlayTime": 1699270701000,
+        "championPointsSinceLastLevel": 3527,
+        "championPointsUntilNextLevel": 3073,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 245,
+        "championLevel": 3,
+        "championPoints": 8850,
+        "lastPlayTime": 1707629980000,
+        "championPointsSinceLastLevel": 2850,
+        "championPointsUntilNextLevel": 3750,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 45,
+        "championLevel": 3,
+        "championPoints": 8614,
+        "lastPlayTime": 1665808785000,
+        "championPointsSinceLastLevel": 2614,
+        "championPointsUntilNextLevel": 3986,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 102,
+        "championLevel": 3,
+        "championPoints": 7684,
+        "lastPlayTime": 1710502840000,
+        "championPointsSinceLastLevel": 1684,
+        "championPointsUntilNextLevel": 4916,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 131,
+        "championLevel": 3,
+        "championPoints": 7627,
+        "lastPlayTime": 1614663882000,
+        "championPointsSinceLastLevel": 1627,
+        "championPointsUntilNextLevel": 4973,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 69,
+        "championLevel": 3,
+        "championPoints": 7404,
+        "lastPlayTime": 1628762785000,
+        "championPointsSinceLastLevel": 1404,
+        "championPointsUntilNextLevel": 5196,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 11,
+        "championLevel": 3,
+        "championPoints": 7023,
+        "lastPlayTime": 1716027554000,
+        "championPointsSinceLastLevel": 1023,
+        "championPointsUntilNextLevel": 5577,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "milestoneGrades": [
+            "A-"
+        ],
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 555,
+        "championLevel": 3,
+        "championPoints": 6702,
+        "lastPlayTime": 1686226690000,
+        "championPointsSinceLastLevel": 702,
+        "championPointsUntilNextLevel": 5898,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 61,
+        "championLevel": 3,
+        "championPoints": 6367,
+        "lastPlayTime": 1707543276000,
+        "championPointsSinceLastLevel": 367,
+        "championPointsUntilNextLevel": 6233,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 21,
+        "championLevel": 3,
+        "championPoints": 6300,
+        "lastPlayTime": 1705124661000,
+        "championPointsSinceLastLevel": 300,
+        "championPointsUntilNextLevel": 6300,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 114,
+        "championLevel": 3,
+        "championPoints": 6222,
+        "lastPlayTime": 1610101466000,
+        "championPointsSinceLastLevel": 222,
+        "championPointsUntilNextLevel": 6378,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 516,
+        "championLevel": 3,
+        "championPoints": 6168,
+        "lastPlayTime": 1717505202000,
+        "championPointsSinceLastLevel": 168,
+        "championPointsUntilNextLevel": 6432,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "milestoneGrades": [
+            "S-",
+            "A",
+            "B"
+        ],
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 222,
+        "championLevel": 3,
+        "championPoints": 6098,
+        "lastPlayTime": 1707572522000,
+        "championPointsSinceLastLevel": 98,
+        "championPointsUntilNextLevel": 6502,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 53,
+        "championLevel": 2,
+        "championPoints": 5883,
+        "lastPlayTime": 1715928015000,
+        "championPointsSinceLastLevel": 4083,
+        "championPointsUntilNextLevel": 117,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "milestoneGrades": [
+            "S-"
+        ],
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 35,
+        "championLevel": 2,
+        "championPoints": 5608,
+        "lastPlayTime": 1707570113000,
+        "championPointsSinceLastLevel": 3808,
+        "championPointsUntilNextLevel": 392,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 17,
+        "championLevel": 2,
+        "championPoints": 5008,
+        "lastPlayTime": 1671517869000,
+        "championPointsSinceLastLevel": 3208,
+        "championPointsUntilNextLevel": 992,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 876,
+        "championLevel": 2,
+        "championPoints": 4972,
+        "lastPlayTime": 1671623828000,
+        "championPointsSinceLastLevel": 3172,
+        "championPointsUntilNextLevel": 1028,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 19,
+        "championLevel": 2,
+        "championPoints": 4850,
+        "lastPlayTime": 1656410757000,
+        "championPointsSinceLastLevel": 3050,
+        "championPointsUntilNextLevel": 1150,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 420,
+        "championLevel": 2,
+        "championPoints": 4760,
+        "lastPlayTime": 1673528040000,
+        "championPointsSinceLastLevel": 2960,
+        "championPointsUntilNextLevel": 1240,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 887,
+        "championLevel": 2,
+        "championPoints": 4717,
+        "lastPlayTime": 1706255514000,
+        "championPointsSinceLastLevel": 2917,
+        "championPointsUntilNextLevel": 1283,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 164,
+        "championLevel": 2,
+        "championPoints": 4576,
+        "lastPlayTime": 1664177014000,
+        "championPointsSinceLastLevel": 2776,
+        "championPointsUntilNextLevel": 1424,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 246,
+        "championLevel": 2,
+        "championPoints": 4484,
+        "lastPlayTime": 1710066685000,
+        "championPointsSinceLastLevel": 2684,
+        "championPointsUntilNextLevel": 1516,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 105,
+        "championLevel": 2,
+        "championPoints": 4284,
+        "lastPlayTime": 1709638756000,
+        "championPointsSinceLastLevel": 2484,
+        "championPointsUntilNextLevel": 1716,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 85,
+        "championLevel": 2,
+        "championPoints": 4133,
+        "lastPlayTime": 1632719836000,
+        "championPointsSinceLastLevel": 2333,
+        "championPointsUntilNextLevel": 1867,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 80,
+        "championLevel": 2,
+        "championPoints": 4103,
+        "lastPlayTime": 1630922375000,
+        "championPointsSinceLastLevel": 2303,
+        "championPointsUntilNextLevel": 1897,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 91,
+        "championLevel": 2,
+        "championPoints": 4087,
+        "lastPlayTime": 1629718949000,
+        "championPointsSinceLastLevel": 2287,
+        "championPointsUntilNextLevel": 1913,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 711,
+        "championLevel": 2,
+        "championPoints": 3933,
+        "lastPlayTime": 1639388454000,
+        "championPointsSinceLastLevel": 2133,
+        "championPointsUntilNextLevel": 2067,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 518,
+        "championLevel": 2,
+        "championPoints": 3883,
+        "lastPlayTime": 1706440968000,
+        "championPointsSinceLastLevel": 2083,
+        "championPointsUntilNextLevel": 2117,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 497,
+        "championLevel": 2,
+        "championPoints": 3827,
+        "lastPlayTime": 1707544544000,
+        "championPointsSinceLastLevel": 2027,
+        "championPointsUntilNextLevel": 2173,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 4,
+        "championLevel": 2,
+        "championPoints": 3789,
+        "lastPlayTime": 1710501444000,
+        "championPointsSinceLastLevel": 1989,
+        "championPointsUntilNextLevel": 2211,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 56,
+        "championLevel": 2,
+        "championPoints": 3779,
+        "lastPlayTime": 1663672646000,
+        "championPointsSinceLastLevel": 1979,
+        "championPointsUntilNextLevel": 2221,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 121,
+        "championLevel": 2,
+        "championPoints": 3731,
+        "lastPlayTime": 1612563942000,
+        "championPointsSinceLastLevel": 1931,
+        "championPointsUntilNextLevel": 2269,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 90,
+        "championLevel": 2,
+        "championPoints": 3649,
+        "lastPlayTime": 1614755005000,
+        "championPointsSinceLastLevel": 1849,
+        "championPointsUntilNextLevel": 2351,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 429,
+        "championLevel": 2,
+        "championPoints": 3645,
+        "lastPlayTime": 1635333144000,
+        "championPointsSinceLastLevel": 1845,
+        "championPointsUntilNextLevel": 2355,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 350,
+        "championLevel": 2,
+        "championPoints": 3641,
+        "lastPlayTime": 1670239571000,
+        "championPointsSinceLastLevel": 1841,
+        "championPointsUntilNextLevel": 2359,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 126,
+        "championLevel": 2,
+        "championPoints": 3567,
+        "lastPlayTime": 1703326762000,
+        "championPointsSinceLastLevel": 1767,
+        "championPointsUntilNextLevel": 2433,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 166,
+        "championLevel": 2,
+        "championPoints": 3481,
+        "lastPlayTime": 1700732283000,
+        "championPointsSinceLastLevel": 1681,
+        "championPointsUntilNextLevel": 2519,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 8,
+        "championLevel": 2,
+        "championPoints": 3249,
+        "lastPlayTime": 1670929822000,
+        "championPointsSinceLastLevel": 1449,
+        "championPointsUntilNextLevel": 2751,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 99,
+        "championLevel": 2,
+        "championPoints": 3240,
+        "lastPlayTime": 1615618511000,
+        "championPointsSinceLastLevel": 1440,
+        "championPointsUntilNextLevel": 2760,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 28,
+        "championLevel": 2,
+        "championPoints": 3049,
+        "lastPlayTime": 1653559669000,
+        "championPointsSinceLastLevel": 1249,
+        "championPointsUntilNextLevel": 2951,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 234,
+        "championLevel": 2,
+        "championPoints": 3025,
+        "lastPlayTime": 1710507264000,
+        "championPointsSinceLastLevel": 1225,
+        "championPointsUntilNextLevel": 2975,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 266,
+        "championLevel": 2,
+        "championPoints": 2867,
+        "lastPlayTime": 1706152867000,
+        "championPointsSinceLastLevel": 1067,
+        "championPointsUntilNextLevel": 3133,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 432,
+        "championLevel": 2,
+        "championPoints": 2842,
+        "lastPlayTime": 1716380717000,
+        "championPointsSinceLastLevel": 1042,
+        "championPointsUntilNextLevel": 3158,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "milestoneGrades": [
+            "B-"
+        ],
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 32,
+        "championLevel": 2,
+        "championPoints": 2716,
+        "lastPlayTime": 1670749750000,
+        "championPointsSinceLastLevel": 916,
+        "championPointsUntilNextLevel": 3284,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 122,
+        "championLevel": 2,
+        "championPoints": 2630,
+        "lastPlayTime": 1702814138000,
+        "championPointsSinceLastLevel": 830,
+        "championPointsUntilNextLevel": 3370,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 82,
+        "championLevel": 2,
+        "championPoints": 2593,
+        "lastPlayTime": 1599630819000,
+        "championPointsSinceLastLevel": 793,
+        "championPointsUntilNextLevel": 3407,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 42,
+        "championLevel": 2,
+        "championPoints": 2544,
+        "lastPlayTime": 1628594774000,
+        "championPointsSinceLastLevel": 744,
+        "championPointsUntilNextLevel": 3456,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 9,
+        "championLevel": 2,
+        "championPoints": 2483,
+        "lastPlayTime": 1704102914000,
+        "championPointsSinceLastLevel": 683,
+        "championPointsUntilNextLevel": 3517,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 134,
+        "championLevel": 2,
+        "championPoints": 2398,
+        "lastPlayTime": 1707729333000,
+        "championPointsSinceLastLevel": 598,
+        "championPointsUntilNextLevel": 3602,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 6,
+        "championLevel": 2,
+        "championPoints": 2085,
+        "lastPlayTime": 1616931886000,
+        "championPointsSinceLastLevel": 285,
+        "championPointsUntilNextLevel": 3915,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 98,
+        "championLevel": 2,
+        "championPoints": 2021,
+        "lastPlayTime": 1703329207000,
+        "championPointsSinceLastLevel": 221,
+        "championPointsUntilNextLevel": 3979,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 77,
+        "championLevel": 2,
+        "championPoints": 1947,
+        "lastPlayTime": 1663553724000,
+        "championPointsSinceLastLevel": 147,
+        "championPointsUntilNextLevel": 4053,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 3,
+        "championLevel": 2,
+        "championPoints": 1888,
+        "lastPlayTime": 1705127362000,
+        "championPointsSinceLastLevel": 88,
+        "championPointsUntilNextLevel": 4112,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 427,
+        "championLevel": 1,
+        "championPoints": 1798,
+        "lastPlayTime": 1706150392000,
+        "championPointsSinceLastLevel": 1798,
+        "championPointsUntilNextLevel": 2,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 147,
+        "championLevel": 1,
+        "championPoints": 1783,
+        "lastPlayTime": 1639742446000,
+        "championPointsSinceLastLevel": 1783,
+        "championPointsUntilNextLevel": 17,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 203,
+        "championLevel": 1,
+        "championPoints": 1766,
+        "lastPlayTime": 1620643804000,
+        "championPointsSinceLastLevel": 1766,
+        "championPointsUntilNextLevel": 34,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 29,
+        "championLevel": 1,
+        "championPoints": 1747,
+        "lastPlayTime": 1639648349000,
+        "championPointsSinceLastLevel": 1747,
+        "championPointsUntilNextLevel": 53,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 360,
+        "championLevel": 1,
+        "championPoints": 1631,
+        "lastPlayTime": 1670898488000,
+        "championPointsSinceLastLevel": 1631,
+        "championPointsUntilNextLevel": 169,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 43,
+        "championLevel": 1,
+        "championPoints": 1614,
+        "lastPlayTime": 1707802547000,
+        "championPointsSinceLastLevel": 1614,
+        "championPointsUntilNextLevel": 186,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 101,
+        "championLevel": 1,
+        "championPoints": 1599,
+        "lastPlayTime": 1608357701000,
+        "championPointsSinceLastLevel": 1599,
+        "championPointsUntilNextLevel": 201,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 412,
+        "championLevel": 1,
+        "championPoints": 1576,
+        "lastPlayTime": 1705223260000,
+        "championPointsSinceLastLevel": 1576,
+        "championPointsUntilNextLevel": 224,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 875,
+        "championLevel": 1,
+        "championPoints": 1575,
+        "lastPlayTime": 1628502038000,
+        "championPointsSinceLastLevel": 1575,
+        "championPointsUntilNextLevel": 225,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 120,
+        "championLevel": 1,
+        "championPoints": 1525,
+        "lastPlayTime": 1705147191000,
+        "championPointsSinceLastLevel": 1525,
+        "championPointsUntilNextLevel": 275,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 78,
+        "championLevel": 1,
+        "championPoints": 1510,
+        "lastPlayTime": 1618215139000,
+        "championPointsSinceLastLevel": 1510,
+        "championPointsUntilNextLevel": 290,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 119,
+        "championLevel": 1,
+        "championPoints": 1325,
+        "lastPlayTime": 1634552231000,
+        "championPointsSinceLastLevel": 1325,
+        "championPointsUntilNextLevel": 475,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 145,
+        "championLevel": 1,
+        "championPoints": 1282,
+        "lastPlayTime": 1656485666000,
+        "championPointsSinceLastLevel": 1282,
+        "championPointsUntilNextLevel": 518,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 63,
+        "championLevel": 1,
+        "championPoints": 1279,
+        "lastPlayTime": 1706871651000,
+        "championPointsSinceLastLevel": 1279,
+        "championPointsUntilNextLevel": 521,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 34,
+        "championLevel": 1,
+        "championPoints": 1260,
+        "lastPlayTime": 1652525258000,
+        "championPointsSinceLastLevel": 1260,
+        "championPointsUntilNextLevel": 540,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 44,
+        "championLevel": 1,
+        "championPoints": 1240,
+        "lastPlayTime": 1707545813000,
+        "championPointsSinceLastLevel": 1240,
+        "championPointsUntilNextLevel": 560,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 30,
+        "championLevel": 1,
+        "championPoints": 1227,
+        "lastPlayTime": 1613727770000,
+        "championPointsSinceLastLevel": 1227,
+        "championPointsUntilNextLevel": 573,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 22,
+        "championLevel": 1,
+        "championPoints": 1226,
+        "lastPlayTime": 1705665342000,
+        "championPointsSinceLastLevel": 1226,
+        "championPointsUntilNextLevel": 574,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 5,
+        "championLevel": 1,
+        "championPoints": 1189,
+        "lastPlayTime": 1612660646000,
+        "championPointsSinceLastLevel": 1189,
+        "championPointsUntilNextLevel": 611,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 254,
+        "championLevel": 1,
+        "championPoints": 1142,
+        "lastPlayTime": 1614420349000,
+        "championPointsSinceLastLevel": 1142,
+        "championPointsUntilNextLevel": 658,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 89,
+        "championLevel": 1,
+        "championPoints": 1124,
+        "lastPlayTime": 1700823945000,
+        "championPointsSinceLastLevel": 1124,
+        "championPointsUntilNextLevel": 676,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 104,
+        "championLevel": 1,
+        "championPoints": 969,
+        "lastPlayTime": 1670241802000,
+        "championPointsSinceLastLevel": 969,
+        "championPointsUntilNextLevel": 831,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 10,
+        "championLevel": 1,
+        "championPoints": 905,
+        "lastPlayTime": 1613216165000,
+        "championPointsSinceLastLevel": 905,
+        "championPointsUntilNextLevel": 895,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 127,
+        "championLevel": 1,
+        "championPoints": 903,
+        "lastPlayTime": 1608763001000,
+        "championPointsSinceLastLevel": 903,
+        "championPointsUntilNextLevel": 897,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 112,
+        "championLevel": 1,
+        "championPoints": 881,
+        "lastPlayTime": 1609643194000,
+        "championPointsSinceLastLevel": 881,
+        "championPointsUntilNextLevel": 919,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 106,
+        "championLevel": 1,
+        "championPoints": 844,
+        "lastPlayTime": 1617261202000,
+        "championPointsSinceLastLevel": 844,
+        "championPointsUntilNextLevel": 956,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 31,
+        "championLevel": 1,
+        "championPoints": 831,
+        "lastPlayTime": 1616145271000,
+        "championPointsSinceLastLevel": 831,
+        "championPointsUntilNextLevel": 969,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 15,
+        "championLevel": 1,
+        "championPoints": 815,
+        "lastPlayTime": 1631441831000,
+        "championPointsSinceLastLevel": 815,
+        "championPointsUntilNextLevel": 985,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 59,
+        "championLevel": 1,
+        "championPoints": 810,
+        "lastPlayTime": 1613198583000,
+        "championPointsSinceLastLevel": 810,
+        "championPointsUntilNextLevel": 990,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 37,
+        "championLevel": 1,
+        "championPoints": 790,
+        "lastPlayTime": 1632223731000,
+        "championPointsSinceLastLevel": 790,
+        "championPointsUntilNextLevel": 1010,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 25,
+        "championLevel": 1,
+        "championPoints": 754,
+        "lastPlayTime": 1633778617000,
+        "championPointsSinceLastLevel": 754,
+        "championPointsUntilNextLevel": 1046,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 111,
+        "championLevel": 1,
+        "championPoints": 667,
+        "lastPlayTime": 1664370982000,
+        "championPointsSinceLastLevel": 667,
+        "championPointsUntilNextLevel": 1133,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 235,
+        "championLevel": 1,
+        "championPoints": 636,
+        "lastPlayTime": 1617348426000,
+        "championPointsSinceLastLevel": 636,
+        "championPointsUntilNextLevel": 1164,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 233,
+        "championLevel": 1,
+        "championPoints": 612,
+        "lastPlayTime": 1698558733000,
+        "championPointsSinceLastLevel": 612,
+        "championPointsUntilNextLevel": 1188,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 113,
+        "championLevel": 1,
+        "championPoints": 575,
+        "lastPlayTime": 1643783963000,
+        "championPointsSinceLastLevel": 575,
+        "championPointsUntilNextLevel": 1225,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 107,
+        "championLevel": 1,
+        "championPoints": 571,
+        "lastPlayTime": 1671014460000,
+        "championPointsSinceLastLevel": 571,
+        "championPointsUntilNextLevel": 1229,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 13,
+        "championLevel": 1,
+        "championPoints": 411,
+        "lastPlayTime": 1636201396000,
+        "championPointsSinceLastLevel": 411,
+        "championPointsUntilNextLevel": 1389,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 62,
+        "championLevel": 1,
+        "championPoints": 402,
+        "lastPlayTime": 1631340229000,
+        "championPointsSinceLastLevel": 402,
+        "championPointsUntilNextLevel": 1398,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 79,
+        "championLevel": 1,
+        "championPoints": 309,
+        "lastPlayTime": 1709382278000,
+        "championPointsSinceLastLevel": 309,
+        "championPointsUntilNextLevel": 1491,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 110,
+        "championLevel": 1,
+        "championPoints": 302,
+        "lastPlayTime": 1636624107000,
+        "championPointsSinceLastLevel": 302,
+        "championPointsUntilNextLevel": 1498,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 421,
+        "championLevel": 1,
+        "championPoints": 295,
+        "lastPlayTime": 1671780769000,
+        "championPointsSinceLastLevel": 295,
+        "championPointsUntilNextLevel": 1505,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 200,
+        "championLevel": 1,
+        "championPoints": 255,
+        "lastPlayTime": 1672746305000,
+        "championPointsSinceLastLevel": 255,
+        "championPointsUntilNextLevel": 1545,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 895,
+        "championLevel": 1,
+        "championPoints": 210,
+        "lastPlayTime": 1703162631000,
+        "championPointsSinceLastLevel": 210,
+        "championPointsUntilNextLevel": 1590,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 161,
+        "championLevel": 1,
+        "championPoints": 206,
+        "lastPlayTime": 1601968571000,
+        "championPointsSinceLastLevel": 206,
+        "championPointsUntilNextLevel": 1594,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 23,
+        "championLevel": 1,
+        "championPoints": 185,
+        "lastPlayTime": 1639813392000,
+        "championPointsSinceLastLevel": 185,
+        "championPointsUntilNextLevel": 1615,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 41,
+        "championLevel": 1,
+        "championPoints": 157,
+        "lastPlayTime": 1615283630000,
+        "championPointsSinceLastLevel": 157,
+        "championPointsUntilNextLevel": 1643,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 14,
+        "championLevel": 1,
+        "championPoints": 156,
+        "lastPlayTime": 1707993711000,
+        "championPointsSinceLastLevel": 156,
+        "championPointsUntilNextLevel": 1644,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 86,
+        "championLevel": 1,
+        "championPoints": 145,
+        "lastPlayTime": 1604392737000,
+        "championPointsSinceLastLevel": 145,
+        "championPointsUntilNextLevel": 1655,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 498,
+        "championLevel": 1,
+        "championPoints": 125,
+        "lastPlayTime": 1616486888000,
+        "championPointsSinceLastLevel": 125,
+        "championPointsUntilNextLevel": 1675,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 117,
+        "championLevel": 1,
+        "championPoints": 125,
+        "lastPlayTime": 1614386548000,
+        "championPointsSinceLastLevel": 125,
+        "championPointsUntilNextLevel": 1675,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 201,
+        "championLevel": 1,
+        "championPoints": 117,
+        "lastPlayTime": 1616811594000,
+        "championPointsSinceLastLevel": 117,
+        "championPointsUntilNextLevel": 1683,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 27,
+        "championLevel": 1,
+        "championPoints": 114,
+        "lastPlayTime": 1701917626000,
+        "championPointsSinceLastLevel": 114,
+        "championPointsUntilNextLevel": 1686,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    },
+    {
+        "puuid": "PMRozaxy9-J9YPmaUSds0Oy1fkCdJFI4U-9pvCtLFW6eFhEsN4PKS3hten34Ed58QQMvu4NEfDUzjQ",
+        "championId": 36,
+        "championLevel": 1,
+        "championPoints": 97,
+        "lastPlayTime": 1604802244000,
+        "championPointsSinceLastLevel": 97,
+        "championPointsUntilNextLevel": 1703,
+        "markRequiredForNextLevel": 0,
+        "tokensEarned": 0,
+        "championSeasonMilestone": 0,
+        "nextSeasonMilestone": {
+            "requireGradeCounts": {
+                "B-": 1,
+                "C-": 4
+            },
+            "rewardMarks": 1,
+            "bonus": false,
+            "rewardConfig": {
+                "rewardValue": "5f4333db-e90d-4705-903b-08dbf5e61006",
+                "rewardType": "HEXTECH_CHEST",
+                "maximumReward": 6
+            }
+        }
+    }
+]
