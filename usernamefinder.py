@@ -83,7 +83,7 @@ for i in range(depth):
                     puuids[i + 1].append(participant["puuid"]) 
                     total_puuids = get_total_puuids()
                     if total_puuids % backup_every == 0:
-                        write_to_json(f"puuids_backup_{total_puuids}.json")
+                        save_to_file(f"puuids_backup_{total_puuids}.json")
                     if total_puuids == exit_player_count:
                         save_to_file(f"puuids_completed_{exit_player_count}.json")
                         print(f"Exiting early {exit_player_count} reached")
