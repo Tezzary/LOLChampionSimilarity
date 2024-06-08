@@ -43,7 +43,12 @@ def update_requests_made():
     global total_requests_made
     total_requests_made += 1
     if total_requests_made % backup_every == 0:
-        write_to_json({"totalRequests": total_requests_made, "puuids": puuids}, f"puuids_backup_{total_requests_made}.json")
+        countPerDepth = [len(puuids[i]) for i in range(depth + 1)]
+        totalCount = sum(countPerDepth)
+        print("")
+        print("Total count: " + str(totalCount))
+        print("Count per depth: " + str(countPerDepth))
+        write_to_json({"totalRequests": total_requests_made, "totalCount": totalCount, "countPerDepth": countPerDepth, "puuids": puuids}, f"puuids_backup_{total_requests_made}.json")
     print(f"Total requests made: {total_requests_made}", end="\r")
 
 start_time = time()
