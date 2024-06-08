@@ -38,12 +38,12 @@ def get_match_details(match_id):
 
 total_requests_made = 0
 
-backup_every = 1000
+backup_every = 100
 def update_requests_made():
     global total_requests_made
     total_requests_made += 1
     if total_requests_made % backup_every == 0:
-        write_to_json({"totalRequests": total_requests_made, "totalCount": totalCount, "countPerDepth": countPerDepth, "puuids": puuids}, f"puuids_backup_{total_requests_made}.json")
+        write_to_json({"totalRequests": total_requests_made, "puuids": puuids}, f"puuids_backup_{total_requests_made}.json")
     print(f"Total requests made: {total_requests_made}", end="\r")
 
 start_time = time()
