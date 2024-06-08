@@ -60,7 +60,7 @@ backup_every = 1000
 def update_requests_made():
     global total_requests_made
     total_requests_made += 1
-    print(f"Total requests made: {total_requests_made}", end="\r")
+    #print(f"Total requests made: {total_requests_made}", end="\r")
 
 start_time = time()
 
