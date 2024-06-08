@@ -9,8 +9,9 @@ initial_puuid = os.getenv("INITIAL_PUUID")
 
 matches_per_puuid_url = "https://sea.api.riotgames.com/lol/match/v5/matches/by-puuid/"
 
-depth = 3
-games_per_player = 4
+depth = 100
+games_per_player = 100
+exit_player_count = 10000000
 
 requests_per_minute = 50 # Riot API rate limit
 
@@ -38,17 +39,27 @@ def get_match_details(match_id):
 
 total_requests_made = 0
 
-backup_every = 100
+def get_total_puuids():
+    return sum([len(puuids[i]) for i in range(depth + 1)])
+
+def save_to_file(filename):
+    countPerDepth = [len(puuids[i]) for i in range(depth + 1)]
+    totalCount = sum(countPerDepth)
+
+    print("")
+    print("Total count: " + str(totalCount))
+    print("Count per depth: " + str(countPerDepth))
+
+    print("Time taken: " + str((time() - start_time) / 60) + " minutes")
+    print("Total requests made: " + str(total_requests_made))
+
+    write_to_json({"totalRequests": total_requests_made, "totalCount": totalCount, "countPerDepth": countPerDepth, "puuids": puuids}, filename)
+
+backup_every = 1000
+
 def update_requests_made():
     global total_requests_made
     total_requests_made += 1
-    if total_requests_made % backup_every == 0:
-        countPerDepth = [len(puuids[i]) for i in range(depth + 1)]
-        totalCount = sum(countPerDepth)
-        print("")
-        print("Total count: " + str(totalCount))
-        print("Count per depth: " + str(countPerDepth))
-        write_to_json({"totalRequests": total_requests_made, "totalCount": totalCount, "countPerDepth": countPerDepth, "puuids": puuids}, f"puuids_backup_{total_requests_made}.json")
     print(f"Total requests made: {total_requests_made}", end="\r")
 
 start_time = time()
@@ -70,14 +81,13 @@ for i in range(depth):
             for participant in details["info"]["participants"]:
                 if not puuid_already_used(participant["puuid"]):
                     puuids[i + 1].append(participant["puuid"]) 
+                    total_puuids = get_total_puuids()
+                    if total_puuids % backup_every == 0:
+                        write_to_json(f"puuids_backup_{total_puuids}.json")
+                    if total_puuids == exit_player_count:
+                        save_to_file(f"puuids_completed_{exit_player_count}.json")
+                        print(f"Exiting early {exit_player_count} reached")
+                        exit()
 
-countPerDepth = [len(puuids[i]) for i in range(depth + 1)]
-totalCount = sum(countPerDepth)
-print("")
-print("Total count: " + str(totalCount))
-print("Count per depth: " + str(countPerDepth))
-
-print("Time taken: " + str((time() - start_time) / 60) + " minutes")
-print("Total requests made: " + str(total_requests_made))
-
-write_to_json({"totalRequests": total_requests_made, "totalCount": totalCount, "countPerDepth": countPerDepth, "puuids": puuids}, "puuids.json")
+print("Reacher terminal depth without reaching exit player count")
+save_to_file(f"puuids_completed_{get_total_puuids()}.json")
