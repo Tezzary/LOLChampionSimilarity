@@ -3,3 +3,6 @@ results/*
 venv
 __pycache__
 *.sh
+log
+nohup.out
+test.log
