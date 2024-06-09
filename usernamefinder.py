@@ -10,7 +10,7 @@ initial_puuid = os.getenv("INITIAL_PUUID")
 matches_per_puuid_url = "https://sea.api.riotgames.com/lol/match/v5/matches/by-puuid/"
 
 depth = 100
-games_per_player = 5
+games_per_player = 100
 exit_player_count = 10000000
 
 requests_per_minute = 50 # Riot API rate limit
