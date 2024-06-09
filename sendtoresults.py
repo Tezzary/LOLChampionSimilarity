@@ -1,20 +1,20 @@
 import os
 import json
 
-path = "results"
+username_path = "results"
 
 def get_next_dir():
     i = 0
     while True:
-        if not os.path.exists(os.path.join(path, f"results_{i}")):
+        if not os.path.exists(os.path.join(username_path, f"results_{i}")):
             return f"results_{i}"
         i += 1
 
-get_next_dir = get_next_dir()
+next_dir = get_next_dir()
 
-os.makedirs(os.path.join(path, get_next_dir))
+os.makedirs(os.path.join(username_path, next_dir))
 
 def write_to_json(results, filename):
-    with open(os.path.join(path, get_next_dir, filename), "w") as f:
+    with open(os.path.join(username_path, next_dir, filename), "w") as f:
         json.dump(results, f, indent=4)
         
