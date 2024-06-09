@@ -29,6 +29,9 @@ def safe_make_request(endpoint, params={}):
             return make_request(endpoint, params)
         except Exception as e:
             print(e)
-            retry_timer = 5
-            print("Retrying... in " + str(retry_timer) + " seconds")
-            sleep(retry_timer)
+            if (e.args[0] == 429):
+                retry_timer = 5
+                print("Rate limited, retrying in " + str(retry_timer) + " seconds")
+                sleep(retry_timer)
+            else:
+                return None

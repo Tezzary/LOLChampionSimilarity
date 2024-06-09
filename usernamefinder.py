@@ -10,7 +10,7 @@ initial_puuid = os.getenv("INITIAL_PUUID")
 matches_per_puuid_url = "https://sea.api.riotgames.com/lol/match/v5/matches/by-puuid/"
 
 depth = 100
-games_per_player = 100
+games_per_player = 5
 exit_player_count = 10000000
 
 requests_per_minute = 50 # Riot API rate limit
@@ -69,6 +69,9 @@ for i in range(depth):
         
         match_ids = get_recent_match_ids(puuid)
         update_requests_made()
+        if match_ids is None:
+            print(f"Failed to get match ids for puuid {puuid}, skipping")
+            continue
 
         for match_id in match_ids:
             if match_ids_used in match_ids:
@@ -77,6 +80,9 @@ for i in range(depth):
 
             details = get_match_details(match_id)
             update_requests_made()
+            if details is None:
+                print(f"Failed to get match details for match id {match_id}, skipping")
+                continue
 
             for participant in details["info"]["participants"]:
                 if not puuid_already_used(participant["puuid"]):
@@ -89,5 +95,5 @@ for i in range(depth):
                         print(f"Exiting early {exit_player_count} reached")
                         exit()
 
-print("Reacher terminal depth without reaching exit player count")
+print("Reached terminal depth without reaching exit player count")
 save_to_file(f"puuids_completed_{get_total_puuids()}.json")
