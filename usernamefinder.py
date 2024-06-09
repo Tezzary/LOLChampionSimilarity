@@ -11,14 +11,7 @@ matches_per_puuid_url = "https://sea.api.riotgames.com/lol/match/v5/matches/by-p
 
 depth = 100
 games_per_player = 100
-exit_player_count = 10000000
-
-requests_per_minute = 50 # Riot API rate limit
-
-#honestly not sure if these calculations actually make sense/are correct, but they should be close enough idk if the 11's are right.
-print("Maximum total requests: " + str((games_per_player*11) ** depth))
-print("Maximum total puuids: " + str((games_per_player*10) ** (depth + 1)))
-print("Maximum total time: " + str((games_per_player*11) ** depth / requests_per_minute) + " minutes")
+exit_player_count = 100000
 
 puuids = [[] for i in range(depth + 1)]
 puuids[0].append(initial_puuid)
