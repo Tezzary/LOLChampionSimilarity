@@ -33,7 +33,7 @@ while True:
 
     match_ids = get_recent_match_ids(summoner["puuid"])
     if match_ids is None:
-        print(f"Failed to get match ids for puuid {summoner["puuid"]}, skipping")
+        print(f"Failed to get match ids for puuid {summoner['puuid']}, skipping")
         continue
 
     for match_id in match_ids:
