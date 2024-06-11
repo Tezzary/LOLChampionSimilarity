@@ -107,3 +107,33 @@ def get_number_of_summoners():
     
     cur.execute("SELECT COUNT(*) FROM summoner")
     return cur.fetchone()[0]
+
+def select_random_summoners(count):
+    conn = sqlite3.connect(f"db/{region}.db")
+    cur = conn.cursor()
+
+    cur.execute("SELECT * FROM summoner ORDER BY RANDOM() LIMIT ?", (count,))
+    summoners = cur.fetchall()
+    summoners = [{
+        "puuid": summoner[0],
+        "gameName": summoner[2],
+        "tagLine": summoner[3],
+        "summonerLevel": summoner[4],
+        "tier": summoner[5],
+        "rank": summoner[6]
+    } for summoner in summoners]
+    return summoners
+
+def get_masteries(summoner):
+    conn = sqlite3.connect(f"db/{region}.db")
+    cur = conn.cursor()
+
+    cur.execute("SELECT * FROM champion_mastery WHERE puuid = ?", (summoner["puuid"],))
+    masteries = cur.fetchall()
+    masteries = [{
+        "puuid": mastery[0],
+        "championId": f"{mastery[1]}",
+        "championPoints": mastery[2],
+        "championLevel": mastery[3]
+    } for mastery in masteries]
+    return masteries
