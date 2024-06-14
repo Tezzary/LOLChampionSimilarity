@@ -41,7 +41,7 @@ def get_summoner_by_puuid(puuid):
     if account_data is None:
         return None
     summoner_data = safe_make_request("https://oc1.api.riotgames.com/lol/summoner/v4/summoners/by-puuid/" + puuid)
-    if summoner_data is None:
+    if summoner_data is None and type(summoner_data["id"]) is str:
         return None
     league_data = safe_make_request("https://oc1.api.riotgames.com/lol/league/v4/entries/by-summoner/" + summoner_data["id"])
     print(summoner_data["id"])

@@ -8,3 +8,4 @@ nohup.out
 test.log
 mastery_results
 db
+*.db
